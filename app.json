@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Take",
-    "slug": "Take",
+    "name": "Picpay Interface",
+    "slug": "Picpay-Interface",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
